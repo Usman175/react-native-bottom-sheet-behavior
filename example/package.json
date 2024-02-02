@@ -13,7 +13,7 @@
     "react-native-bottom-sheet-behavior": "1.0.0",
     "react-native-nested-scroll-view": "7.0.0",
     "react-native-vector-icons": "^4.6.0",
-    "react-navigation": "1.0.0-beta.13"
+    "react-navigation": "5.0.0"
   },
   "devDependencies": {
     "babel-jest": "23.2.0",
