@@ -9,10 +9,10 @@
   "dependencies": {
     "prop-types": "^15.6.0",
     "react": "16.4.1",
-    "react-native": "0.56.0",
+    "react-native": "0.69.12",
     "react-native-bottom-sheet-behavior": "1.0.0",
     "react-native-nested-scroll-view": "7.0.0",
-    "react-native-vector-icons": "^4.6.0",
+    "react-native-vector-icons": "^10.3.0",
     "react-navigation": "1.0.0-beta.13"
   },
   "devDependencies": {
